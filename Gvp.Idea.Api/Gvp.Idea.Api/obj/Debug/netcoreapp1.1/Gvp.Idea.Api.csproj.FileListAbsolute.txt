@@ -1,0 +1,8 @@
+D:\@Git\gvp-idea-api-core\Gvp.Idea.Api\Gvp.Idea.Api\bin\Debug\netcoreapp1.1\Gvp.Idea.Api.deps.json
+D:\@Git\gvp-idea-api-core\Gvp.Idea.Api\Gvp.Idea.Api\bin\Debug\netcoreapp1.1\Gvp.Idea.Api.runtimeconfig.json
+D:\@Git\gvp-idea-api-core\Gvp.Idea.Api\Gvp.Idea.Api\bin\Debug\netcoreapp1.1\Gvp.Idea.Api.runtimeconfig.dev.json
+D:\@Git\gvp-idea-api-core\Gvp.Idea.Api\Gvp.Idea.Api\bin\Debug\netcoreapp1.1\Gvp.Idea.Api.dll
+D:\@Git\gvp-idea-api-core\Gvp.Idea.Api\Gvp.Idea.Api\bin\Debug\netcoreapp1.1\Gvp.Idea.Api.pdb
+D:\@Git\gvp-idea-api-core\Gvp.Idea.Api\Gvp.Idea.Api\obj\Debug\netcoreapp1.1\Gvp.Idea.Api.AssemblyInfo.cs
+D:\@Git\gvp-idea-api-core\Gvp.Idea.Api\Gvp.Idea.Api\obj\Debug\netcoreapp1.1\Gvp.Idea.Api.dll
+D:\@Git\gvp-idea-api-core\Gvp.Idea.Api\Gvp.Idea.Api\obj\Debug\netcoreapp1.1\Gvp.Idea.Api.pdb
