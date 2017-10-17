@@ -1,0 +1,17 @@
+D:\@Git\gvp-service-receivemail-api\Gvp.ReceiveMail.Api\DataAccess\bin\Debug\DataAccess.dll
+D:\@Git\gvp-service-receivemail-api\Gvp.ReceiveMail.Api\DataAccess\bin\Debug\DataAccess.pdb
+D:\@Git\gvp-service-receivemail-api\Gvp.ReceiveMail.Api\DataAccess\bin\Debug\AWSSDK.dll
+D:\@Git\gvp-service-receivemail-api\Gvp.ReceiveMail.Api\DataAccess\bin\Debug\ChilkatDotNet46.dll
+D:\@Git\gvp-service-receivemail-api\Gvp.ReceiveMail.Api\DataAccess\bin\Debug\Dapper.dll
+D:\@Git\gvp-service-receivemail-api\Gvp.ReceiveMail.Api\DataAccess\bin\Debug\Elmah.dll
+D:\@Git\gvp-service-receivemail-api\Gvp.ReceiveMail.Api\DataAccess\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\@Git\gvp-service-receivemail-api\Gvp.ReceiveMail.Api\DataAccess\bin\Debug\Newtonsoft.Json.dll
+D:\@Git\gvp-service-receivemail-api\Gvp.ReceiveMail.Api\DataAccess\bin\Debug\AWSSDK.pdb
+D:\@Git\gvp-service-receivemail-api\Gvp.ReceiveMail.Api\DataAccess\bin\Debug\Dapper.xml
+D:\@Git\gvp-service-receivemail-api\Gvp.ReceiveMail.Api\DataAccess\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\@Git\gvp-service-receivemail-api\Gvp.ReceiveMail.Api\DataAccess\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\@Git\gvp-service-receivemail-api\Gvp.ReceiveMail.Api\DataAccess\bin\Debug\Newtonsoft.Json.xml
+D:\@Git\gvp-service-receivemail-api\Gvp.ReceiveMail.Api\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+D:\@Git\gvp-service-receivemail-api\Gvp.ReceiveMail.Api\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+D:\@Git\gvp-service-receivemail-api\Gvp.ReceiveMail.Api\DataAccess\obj\Debug\DataAccess.dll
+D:\@Git\gvp-service-receivemail-api\Gvp.ReceiveMail.Api\DataAccess\obj\Debug\DataAccess.pdb
